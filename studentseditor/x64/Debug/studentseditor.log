@@ -1,0 +1,3 @@
+﻿  studentseditor.cpp
+C:\Users\Roman\source\repos\studentseditor\studentseditor\studentseditor.cpp(86,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  studentseditor.vcxproj -> C:\Users\Roman\source\repos\studentseditor\x64\Debug\studentseditor.exe
